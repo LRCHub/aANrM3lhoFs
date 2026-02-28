@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "そのたび",
+  "base_artist": "大漠波新",
+  "createdAt": "2026-02-28T10:56:08.097319Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "そのたび (feat. 初音ミク & 重音テト)",
+      "artist": "大漠波新",
+      "has_synced": false,
+      "path": "select/pl_01_そのたび_(feat._初音ミク_&_重音テト)_大漠波新.txt"
+    }
+  ]
+}
